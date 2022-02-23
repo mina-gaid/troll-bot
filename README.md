@@ -1,4 +1,4 @@
-# shitpost-learn
+# shitpost-learner
 
 Learn to shitpost.
 
